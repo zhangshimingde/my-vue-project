@@ -1,0 +1,37 @@
+{
+  "name": "vue-element",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "vue-cli-service serve",
+    "start:test": "vue-cli-service serve --mode testing",
+    "build": "vue-cli-service build",
+    "build:test": "vue-cli-service build --mode testing",
+    "lint": "vue-cli-service lint",
+    "test:unit": "vue-cli-service test:unit"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "element-ui": "^2.4.5",
+    "mockjs": "^1.0.1-beta3",
+    "vue": "^2.5.17",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.1",
+    "@vue/cli-plugin-eslint": "^3.0.1",
+    "@vue/cli-plugin-unit-mocha": "^3.0.1",
+    "@vue/cli-service": "^3.0.1",
+    "@vue/eslint-config-prettier": "^3.0.1",
+    "@vue/test-utils": "^1.0.0-beta.20",
+    "chai": "^4.1.2",
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0",
+    "vue-cli-plugin-element": "^1.0.0",
+    "vue-template-compiler": "^2.5.17"
+  },
+  "resolutions": {
+    "prettier": "1.14.0"
+  }
+}
