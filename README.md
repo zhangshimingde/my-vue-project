@@ -5,8 +5,6 @@
 - [vue-element](http://wh-git.mingyuanyun.com/it/vue-element)
 - [yo 生成器项目](http://wh-git.mingyuanyun.com/it/generator-vue-element)
 
-> 王文彬负责武汉 gitlab 账号开通
-
 ## 目的是什么
 
 > - 统一的前端规范
