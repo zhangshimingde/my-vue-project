@@ -3,7 +3,7 @@
 项目地址
 
 - [vue-element](https://github.com/zhangshimingde/my-vue-project)
-- [yo 生成器项目](http://wh-git.mingyuanyun.com/it/generator-vue-element)
+- [yo 生成器项目](https://github.com/zhangshimingde/generator-vue-element)
 
 ## 目的是什么
 
